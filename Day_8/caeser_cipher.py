@@ -1,4 +1,4 @@
-import caeser_cipher_art
+import Day_8.caeser_cipher_art as caeser_cipher_art
 
 def caesar(direction, original_text, shift_amount):
     new_word = ""
