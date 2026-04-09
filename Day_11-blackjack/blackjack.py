@@ -3,7 +3,6 @@ import random
 import os
 
 cards = [11,2,3,4,5,6,7,8,9,10,10,10,10]
-
 players_cards = []
 dealers_cards = []
 
@@ -13,7 +12,7 @@ def options():
 2. Finish Game
 """)
     option = int(input("Choose an option: "))
-
+    
     return option
 
 def pontuation(dealers_cards, dealers_sum, players_sum):
@@ -27,6 +26,9 @@ print(art.logo)
 option = options()
 
 while option == 1:
+    players_cards = []
+    dealers_cards = []
+
     for i in range (0, 3):
         if i == 2:
             dealers_cards.append(cards[random.randint(0, len(cards)-1)])
@@ -39,14 +41,12 @@ while option == 1:
     print(f"\nYour cards: {players_cards}")
     print(f"\nDealer's cards: {dealers_cards}")
 
-
-    
     print("""
     1. Hit
     2. Stand
     """)
 
-    choice = input("choose an option: ")
+    choice = int(input("choose an option: "))
 
     if choice == 1:
         pass
