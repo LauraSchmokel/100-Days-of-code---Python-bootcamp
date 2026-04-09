@@ -1,4 +1,4 @@
-import art
+import Day_11.art as art
 import os
 
 print(art.art)
