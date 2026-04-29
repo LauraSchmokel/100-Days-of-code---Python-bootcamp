@@ -1,3 +1,7 @@
+# Day 1 - Variables and Strings
+# Topics: variables, input(), print(), string concatenation, comments, escape characters (\n)
+# What I learned: how to store data in variables and combine strings to create dynamic outputs
+
 """
 1. print
 2. input

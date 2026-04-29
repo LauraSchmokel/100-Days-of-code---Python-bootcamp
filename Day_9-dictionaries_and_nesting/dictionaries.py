@@ -1,3 +1,7 @@
+# Day 9 - Dictionaries and Nesting (Practice)
+# Topics: creating dictionaries, nested dictionaries, lists inside dictionaries
+# What I learned: the different ways to nest data structures inside each other in Python
+
 # colours = {
 #     "apple": "red",
 #     "pear": "green",

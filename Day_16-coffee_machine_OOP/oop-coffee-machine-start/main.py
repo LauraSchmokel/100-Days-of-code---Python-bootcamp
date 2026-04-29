@@ -1,3 +1,7 @@
+# Day 16 - Introduction to OOP (Object-Oriented Programming)
+# Topics: OOP, functions, modules
+# What I learned: how to use object-oriented programming in code
+
 from menu import Menu
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine

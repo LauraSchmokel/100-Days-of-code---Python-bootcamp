@@ -1,3 +1,7 @@
+# Day 8 - Functions with Parameters (Exercise: Love Calculator)
+# Topics: counting characters in strings, conditional logic inside functions
+# What I learned: how to manipulate strings inside a function to extract specific information
+
 def calculate_love_score(name1, name2):
     true_times = 0
     love_times = 0

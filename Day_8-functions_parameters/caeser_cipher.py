@@ -1,3 +1,7 @@
+# Day 8 - Functions with Parameters (Project: Caesar Cipher)
+# Topics: function parameters, string indexing, looping through strings
+# What I learned: how to pass data into functions through parameters to make reusable code
+
 import caeser_cipher_art
 
 def caesar(direction, original_text, shift_amount):

@@ -1,3 +1,6 @@
+# Day 8 - Functions with Parameters (Review)
+# Topics: function syntax, positional and keyword arguments
+# What I learned: how to define and call functions with multiple parameters
 
 # def greet():
 #     print("Hello!")

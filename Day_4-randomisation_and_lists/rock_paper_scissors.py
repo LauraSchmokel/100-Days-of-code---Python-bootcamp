@@ -1,3 +1,7 @@
+# Day 4 - Randomisation and Lists
+# Topics: random module, lists, list indexing, importing modules
+# What I learned: how to use random to simulate computer choices and work with indexed lists
+
 import random
 # import my_module
 

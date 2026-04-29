@@ -1,3 +1,7 @@
+# Day 10 - Functions with Return Values (Project: Calculator)
+# Topics: return statements, function dictionaries, recursion
+# What I learned: how to use return values and recursion to build an interactive calculator
+
 import os
 
 def add(n1, n2):

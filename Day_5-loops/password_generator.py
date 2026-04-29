@@ -1,3 +1,7 @@
+# Day 5 - Loops
+# Topics: for loops, range(), list.append(), random selection from lists
+# What I learned: how to use loops to repeat actions and build lists dynamically
+
 import random
 
 # fruits = ["Apple", "Pear", "Orange"]

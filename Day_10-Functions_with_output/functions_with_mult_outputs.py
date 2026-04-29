@@ -1,3 +1,7 @@
+# Day 10 - Functions with Return Values (Exercise: Validation)
+# Topics: docstrings, multiple return points, input validation
+# What I learned: how to document functions with docstrings and return values conditionally
+
 def format_name(f_name, l_name):
     """
     To check if the names are empty or not

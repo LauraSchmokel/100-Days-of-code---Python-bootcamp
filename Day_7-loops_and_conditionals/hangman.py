@@ -1,3 +1,7 @@
+# Day 7 - Loops and Conditionals (Project: Hangman)
+# Topics: while loops, nested loops, string methods (.lower()), game state management, importing modules
+# What I learned: how to combine loops and conditionals to build a complete interactive game
+
 import random
 import os
 import hangman_art 

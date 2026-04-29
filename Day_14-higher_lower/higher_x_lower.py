@@ -1,3 +1,7 @@
+# Day 14 - Project: Higher or Lower
+# Topics: importing modules, random selection, game loops, score tracking
+# What I learned: how to structure a game with a continuous loop and track the player's score
+
 import art
 import game_data
 import random

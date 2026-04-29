@@ -1,3 +1,7 @@
+# Day 15 - Project: Coffee Machine
+# Topics: match/case statements, function composition, resource management, change calculation
+# What I learned: how to use match/case and organize complex logic into well-defined functions
+
 import art
 import configuration
 

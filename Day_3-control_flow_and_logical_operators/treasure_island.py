@@ -1,3 +1,7 @@
+# Day 3 - Control Flow and Logical Operators
+# Topics: if/elif/else, nested conditionals, logical operators (and, or, not)
+# What I learned: how to create different paths in the code based on the user's choices
+
 # Odd or Even
 
 # number = int(input("Insert a number: "))

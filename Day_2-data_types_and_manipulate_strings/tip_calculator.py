@@ -1,3 +1,6 @@
+# Day 2 - Data Types and String Manipulation
+# Topics: int, float, str, bool, type conversion, f-strings, arithmetic operations
+# What I learned: how to convert between data types and use f-strings to format output
 
 # print("Hello"[-3])
 

@@ -1,3 +1,7 @@
+# Day 11 - Project: Blackjack
+# Topics: card game logic, list operations, win/loss/draw conditionals, Ace handling
+# What I learned: how to structure a complete game with state, rules, and user interaction
+
 import art
 import random
 import os

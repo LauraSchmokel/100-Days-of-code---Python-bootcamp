@@ -1,3 +1,7 @@
+# Day 9 - Dictionaries and Nesting (Project: Secret Auction)
+# Topics: dictionaries, nesting, iterating through dictionaries (.keys(), .values())
+# What I learned: how to use dictionaries to store structured data and find the highest value
+
 import Day_11.art as art
 import os
 

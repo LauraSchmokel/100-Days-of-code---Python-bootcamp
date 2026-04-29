@@ -1,3 +1,6 @@
+# Day 6 - Functions and Karel
+# Topics: function definitions, function calls, Reeborg's World (online coding environment)
+# What I learned: how to create reusable functions and solve logic problems step by step
 
 # def my_function():
 #     print("Hello")

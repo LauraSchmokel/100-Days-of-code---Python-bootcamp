@@ -1,3 +1,7 @@
+# Day 9 - Dictionaries and Nesting (Exercise: Grading Program)
+# Topics: dictionaries, for loops through key-value pairs, nested conditionals
+# What I learned: how to loop through a dictionary and build a new one with transformed data
+
 student_scores = {
     'Harry': 88,
     'Ron': 78,

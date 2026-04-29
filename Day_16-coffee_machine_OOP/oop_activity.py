@@ -1,3 +1,7 @@
+# Day 16 - Introduction to OOP (Object-Oriented Programming)
+# Topics: OOP concepts, turtle library, PrettyTable library, instances and attributes
+# What I learned: the fundamentals of object-oriented programming and how to use external libraries
+
 from turtle import Turtle, Screen
 from prettytable import PrettyTable
 
